@@ -2,4 +2,4 @@
 A library of React components created using `create-react-app`.
 ## Installation
 Run the following command:
-`npm install component_library_demo`
+`npm install qnd_component_library_demo`
