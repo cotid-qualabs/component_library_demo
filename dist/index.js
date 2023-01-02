@@ -10,6 +10,4 @@ Object.defineProperty(exports, "Button", {
     return _Button.default;
   }
 });
-require("bootstrap/dist/css/bootstrap.min.css");
-require("bootstrap/dist/js/bootstrap.bundle.min");
 var _Button = _interopRequireDefault(require("./Button"));
