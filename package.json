@@ -1,5 +1,5 @@
 {
-  "name": "component_library_demo",
+  "name": "qnd_component_library_demo",
   "version": "0.1.0",
   "dependencies": {
     "bootstrap": "^5.2.3"
